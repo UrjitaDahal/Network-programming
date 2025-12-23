@@ -1,9 +1,10 @@
 # Network-programming
 Network Programming Questions
 
-Lab report 1 Questions: 
+Lab report  Questions: 
 
 Part-1:
+
 1. Write a program to display the IP address of your system.
 2. Write a program to implement InetAddress getter methods.
 3. Write a program to print the characteristics (address types) of an IP address.
@@ -16,6 +17,7 @@ Part-1:
 10. Write a program to retrieve data from URL.
 
 part-2:
+
 11. Write a program to split URL. 
 12. Write a program to check which protocol does a virtual machine support? 
 13. Write a program to display the parts of URI. 
@@ -28,6 +30,8 @@ but allows others.
 19. Write a program to retrieve information from header using header specific methods. 
 20. Write a program to retrieve information from header using arbitrary header methods.
 
+Part-3:
+
 21. Write a program to download a web page with the correct character set. 
 22. Write a program to print the entire HTTP header. 
 23. Write a program to configure URLConnection. 
@@ -39,7 +43,8 @@ but allows others.
 29. Write a program to create a TCP client and server to calculate factorial. 
 30. Write a program to create a TCP client and server to share a text file.
 
-Part-3:
+Part-4:
+
 31. Write a program to create a Multi-threaded TCP server and client to check the prime 
 number. 
 32. Write a program to set the TCP client socket options. 
@@ -52,7 +57,8 @@ number.
 39. Write a program to create a UDP daytime client and server. 
 40. Write a program to create a UDP client and server to share text messages.
 
-Part-4:
+Part-5:
+
 41.  Write a program to create a UDP client and server to check given number is Armstrong 
 or not. 
 42. Write a program to set the UDP socket options. 
