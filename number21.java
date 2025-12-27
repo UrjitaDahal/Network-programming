@@ -8,7 +8,7 @@ public class number21 {
         URL u = new URL("https://www.google.com");
         URLConnection uc = u.openConnection();
         String contentType = uc.getContentType();
-        String encoding = "UTF-8"; // default
+        String encoding = "UTF-8"; 
         if (contentType != null && contentType.contains("charset=")) {
             encoding = contentType.split("charset=")[1];
         }
@@ -19,3 +19,4 @@ public class number21 {
         while ((c = r.read()) != -1) System.out.print((char) c);
     }
 }
+
